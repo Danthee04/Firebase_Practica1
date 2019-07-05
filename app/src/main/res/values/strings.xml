@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase_Practica1</string>
+    <string name="txt_nombre">Nombre.</string>
+    <string name="txt_apellido">Apellido.</string>
+    <string name="txt_correo">Correo Electronico.</string>
+    <string name="txt_password">Contraseña.</string>
+</resources>
